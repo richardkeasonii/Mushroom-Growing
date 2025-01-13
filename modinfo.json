@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "mushroomgrowing",
+  "name": "Mushroom Growing",
+  "authors": [
+    "MeBeDerp"
+  ],
+  "description": "Simple Mushroom Growing - Practice Mod.",
+  "version": "1.0.0"
+}

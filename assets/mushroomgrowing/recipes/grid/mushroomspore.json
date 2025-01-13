@@ -1,0 +1,44 @@
+[
+    {
+        "ingredientPattern": "KM",
+        "width": 2,
+        "height": 1,
+        "ingredients": {
+            "K": {
+                "type": "item",
+                "code": "game:knife-*",
+                "isTool": true
+            },
+            "M": {
+                "type": "block",
+                "code": "game:mushroom-*-normal",
+                "name": "mushroom"
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "mushroomspore-{mushroom}"
+        }
+    },
+    {
+        "ingredientPattern": "KM",
+        "width": 2,
+        "height": 1,
+        "ingredients": {
+            "K": {
+                "type": "item",
+                "code": "game:knife-*",
+                "isTool": true
+            },
+            "M": {
+                "type": "block",
+                "code": "game:mushroom-*-normal-north",
+                "name": "mushroom"
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "mushroomspore-{mushroom}"
+        }
+    }
+]
